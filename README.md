@@ -23,7 +23,5 @@ de interface gráfica
     https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2021-06/R/eclipse-inst-jre-win64.exe
 
     Banco de dados : PgAdimin
-https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v5.6/windows/pgadmin4-5.6-x64.exe
-
     usuário: postgres
     senha : 33562052
