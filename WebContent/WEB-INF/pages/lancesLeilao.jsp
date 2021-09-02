@@ -18,7 +18,7 @@
 			<tr>
 				<th>Leilao</th>
 				<th>Valor do lance</th>
-				<th></th>
+				<th>Nome da pessoa</th>
 				<th></th>
 			</tr>
 		</thead>
@@ -27,7 +27,8 @@
 			<c:forEach 	items="${lances}" var= "l">
 				<tr>
 					<td>${l.leilao.item}</td>
-					<td>${l.valor}</td>
+					<td>R$ ${l.valor}</td>
+					<td>${l.pessoa.nome}</td>
 					
 				</tr>
 			</c:forEach>
