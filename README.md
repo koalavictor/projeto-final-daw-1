@@ -22,6 +22,6 @@ de interface gráfica
     Eclise IDE
     https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2021-06/R/eclipse-inst-jre-win64.exe
 
-    Banco de dados : PgAdimin
+    Banco de dados : PgAdmin
     usuário: postgres
     senha : 33562052
